@@ -1,0 +1,10 @@
+--- SIMULASYON GUNLUGU BASLADI ---
+[23:33:08] --- DALGA 1 BASLADI ---
+[23:33:08] Simulasyon Basladi.
+[23:33:08] Dusman 'Wizard-ID101' (Can: 50/50, Zirh:0) haritaya girdi.
+[23:33:12] Dusman 'Wizard-ID102' (Can: 50/50, Zirh:0) haritaya girdi.
+[23:33:16] Dusman 'Knight-ID103' (Can: 75/75, Zirh:100) haritaya girdi.
+[23:33:20] Dusman 'Witch-ID104' (Can: 50/50, Zirh:0) haritaya girdi.
+[23:33:39] 'Wizard-ID101' kaleye carpti! Can: 90 (-10).
+[23:33:40] 'Witch-ID104' kaleye carpti! Can: 80 (-10).
+[23:33:42] 'Wizard-ID102' kaleye carpti! Can: 70 (-10).
