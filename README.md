@@ -44,7 +44,7 @@ In a world where a fallen star has split into three elemental powers—**Fire, L
 
 ![Main Menu](title_screen.jpeg)
 
-![Gameplay](in_game.jpg)
+![Gameplay](in_game.jpeg)
 
 ## 👥 Contributors
 
@@ -52,4 +52,5 @@ In a world where a fallen star has split into three elemental powers—**Fire, L
 * **[Nisa Nur Yağlı]** *
 
 ---
+
 *This project was developed as a semester project for the Computer Engineering department.*
